@@ -1,5 +1,5 @@
 import React from "react";
-import logofinal from "../assets/logofinal.png"; // Import your logo image
+import logofinal from "../assets/logo (1).png"; // Import your logo image
 
 // Define your key colors based on the logo palette
 // (Ideally these would be configured in tailwind.config.js, but defining them here for clarity)
