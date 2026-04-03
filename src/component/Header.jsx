@@ -29,7 +29,7 @@ const Header = () => {
           />
           <div className="flex flex-col">
             <h1 className="text-xl md:text-2xl font-bold leading-tight">
-              EDUMENTORS KIDS <br className="md:hidden" /> INTERNATIONAL SCHOOOL
+              EDUMENTORS KIDS <br className="md:hidden" /> INTERNATIONAL SCHOOL
             </h1>
           </div>
         </div>
