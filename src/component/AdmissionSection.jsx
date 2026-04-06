@@ -73,7 +73,7 @@ const AdmissionSection = () => {
 
             {/* Link text - Using Primary Blue */}
             <p className={`mt-4 text-sm text-[${primaryBlue}]`}>
-              <a href="/admissions-process" className="hover:underline">
+              <a href="#about" className="hover:underline">
                 Learn more about our admission process
               </a>
             </p>
