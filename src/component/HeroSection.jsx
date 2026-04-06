@@ -38,7 +38,8 @@ const HeroSection = () => {
         <div className="mt-8 space-x-4">
           {/* Apply Now Button: Using Accent Orange from logo */}
           <a
-            href="/admissions"
+            href="#contact"
+            style={{ backgroundColor: accentOrange }}
             className={`inline-block px-8 py-4 bg-[${accentOrange}] text-white font-bold text-lg rounded-full shadow-lg hover:bg-[#e68900] transition duration-300 transform hover:-translate-y-1`}
             // hover:bg-[#e68900] is a slightly darker orange
           >

@@ -64,7 +64,7 @@ const AdmissionSection = () => {
             {/* Call-to-Action Button */}
             {/* Background: Accent Orange, Text: Dark Accent Blue */}
             <a
-              href="/admissions" // Link to your actual admissions page or form
+              href="#contact" // Link to your actual admissions page or form
               className={`inline-block mt-8 px-8 py-4 bg-[${accentOrange}] text-[${darkAccentBlue}] font-bold text-lg rounded-full shadow-lg hover:bg-[#e68900] hover:shadow-xl transition duration-300 transform hover:-translate-y-1`}
               // hover:bg-[#e68900] is a slightly darker orange for hover effect
             >
