@@ -47,7 +47,7 @@ const HeroSection = () => {
           </a>
           {/* Learn More Button: White outline, white text, Primary Blue text on hover */}
           <a
-            href="/about"
+            href="#about"
             className={`inline-block px-8 py-4 border-2 border-white text-white font-bold text-lg rounded-full shadow-lg hover:bg-white hover:text-[#1E3A8A] transition duration-300 transform hover:-translate-y-1`}
           >
             Learn More
